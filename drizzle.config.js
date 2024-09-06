@@ -3,6 +3,6 @@ export default {
     schema: "./utils/schema.js",
     dialect: 'postgresql',
     dbCredentials: {
-      url: 'postgresql://accounts:ypvN2ke3PGFE@ep-weathered-heart-a58wmzem.us-east-2.aws.neon.tech/ai-interview-mocker?sslmode=require',
+      url: 'postgresql://intruve_db_owner:25gkIHulJnpE@ep-proud-surf-a55ecwv0.us-east-2.aws.neon.tech/intruve_db?sslmode=require',
     }
   };
